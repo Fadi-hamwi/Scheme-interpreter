@@ -1,2 +1,2 @@
 # Scheme-interpreter
-A simple scheme interpreter.
+This is a simple Scheme interpreter built to evaluate basic **Scheme** expressions, supporting standard operations like arithmetic, conditionals, and function definitions. Written in Python, it reads, parses, and evaluates Scheme expressions from command line input. Use this interpreter to experiment with Scheme syntax and evaluate custom Scheme expressions in an interactive environment.
